@@ -9,9 +9,11 @@ Plans for Cycle 2
 
 
 All phases are supported with morning ARCs:
--> 20 - 40 easy boulders
+
+- 20 - 40 easy boulders
 
 Categories:
+
 - Sessions (ARC|Base|Limit|4x4|Project)
 - Technique 
 - Hangboarding (Lopez|OneArmMaxHang|MaxBridge)
