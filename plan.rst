@@ -43,3 +43,18 @@ Project Phase
 
 Rest Phase
 ----------
+
+
+Questions
+---------
+
+- Kann ich am gleichen Tag Hangboarden (Morgen) und am Abend (Contact Strength) üben?
+
+
+Weaknesses 
+-----------
+
+- Volumes
+- Hüfte
+- Kreuzzüge
+
