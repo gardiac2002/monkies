@@ -49,7 +49,7 @@ Questions
 ---------
 
 - Kann ich am gleichen Tag Hangboarden (Morgen) und am Abend (Contact Strength) üben?
-
+- Kann ich in der Basisphase leicht hangboarden machen (3x10-50 mit 6 Sets)?
 
 Weaknesses 
 -----------
