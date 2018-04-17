@@ -5,7 +5,7 @@ Cycle 2
 Generelles
 ----------
 
-Dauer: **40-56 Einheiten** (14 - 19 Wochen), **Mai - August/September**
+Dauer: **44-62 Einheiten** (16 - 21 Wochen), **Mai - August/September**
 
 - Ingi macht kein ARC am Morgen
 - Generell: Auf den Körper hören. Im Zweifel einen
