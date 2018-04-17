@@ -2,6 +2,14 @@
 Cycle 2
 ========
 
+Generelles
+----------
+
+- Ingi macht kein ARC am Morgen
+- Generell: Auf den Körper hören. Im Zweifel einen
+  Restday mehr beziehungsweise lockerer als geplant.
+
+
 Fragen
 ------
 
