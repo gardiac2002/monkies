@@ -10,6 +10,7 @@ Dauer: **40-56 Einheiten** (14 - 19 Wochen), **Mai - August/September**
 - Ingi macht kein ARC am Morgen
 - Generell: Auf den Körper hören. Im Zweifel einen
   Restday mehr beziehungsweise lockerer als geplant.
+- Ab und zu draußen klettern und einfach Freude haben! :)
 - Eine Phase dauert bis die Leistung abschwächt?
 
 
@@ -42,6 +43,7 @@ Aufbau
 - **Klettern jeden zweiten Tag**
 
   - ARC am Morgen (60 Minuten, 20-40x5a-5c)
+  
     - Test für Abend ob mehr Pause nötig
     - Bewegungsfluss
     - Atmung
@@ -49,13 +51,14 @@ Aufbau
   - Klettern am Abend (120-180 Minuten, 20-40x5a-6b+, Ingi: bis 6a+)
 
     Aufbau einer Abendeinheit
+    
     - 30-60min Warmup (15-20 Boulder aufsteigend bis 6b, Ingi: bis 6a)
     - 30-60min Technik
         
       - isolierte Techniken (Kreuzen, Hooks ...)
       - 5x5 Technik: 5 Versuche bei 5 schwierigen Zügen (Fokus: Technik NICHT Kraft)
 
-    - 60-90min viele, diverse Routen (5a-6b+, Ingi; bis 6a+)
+    - 60-90min **viele, diverse Routen** (5a-6b+, Ingi; bis 6a+)
 
 - **Gymnastik nach der Abendsession Klettern** 
    Fokus: 12-20 Wiederholungen je Set. Alles an den Ringen. Jede zweite Einheit.
@@ -94,6 +97,7 @@ Aufbau
   Wenn nötig, einen Tag Pause mehr.
 
   - ARC am Morgen (60 Minuten, 20-40x5a-5c) 
+
     - Test für Abend ob mehr Pause nötig
     - Bewegungsfluss
     - Atmung
@@ -104,9 +108,11 @@ Aufbau
 
     - 30-60min Warmup (15-20 Boulder aufsteigend bis 6b+)
     - 30-60min Technik
+
       - isolierte Techniken (Kreuzen, Hooks ...)
       - 5x5 Technik: 5 Versuche bei 5 schwierigen Zügen (Fokus: Weite, explosive Züge)
-    - Limit Bouldering ODER Schnellkraft (abwechselnd)
+
+    - 60min **Limit Bouldering** ODER **Schnellkraft** (abwechselnd)
 
 - **Gymnastik nach der Abendsession Klettern**
    Fokus: 1-5 Wiederholungen je Set. Alles an den Ringen. Jede zweite Einheit.
@@ -124,11 +130,20 @@ Aufbau
 
 - **Mobility**
 
-  - Yoga
+  - Yoga (Ingi täglich, Philipp RestDays)
 
 
-Maximalkraftphase
------------------
+Bridge Maximalkraft zu Kraftausdauer
+------------------------------------
+Dauer: **2-3 Einheiten**. 1 Einheit == 1 Klettern.
+
+- Vorbereitung: Kraftausdauerrouten finden
+- Klettern: 2 Tage Projekte
+- Hangboarding (2 Mal): Pyramide (3x1-3-5-7-10 Sekunden)
+
+
+Kraftausdauerphase
+-------------------
 Dauer: **12-16 Einheiten**. 1 Einheit == 1 Klettern.
 
 
@@ -147,6 +162,7 @@ Aufbau
   Wenn nötig, einen Tag Pause mehr.
 
   - ARC am Morgen (60 Minuten, 20-40x5a-5c) 
+
     - Test für Abend ob mehr Pause nötig
     - Bewegungsfluss
     - Atmung
@@ -157,9 +173,11 @@ Aufbau
 
     - 30-60min Warmup (15-20 Boulder aufsteigend bis 6b+)
     - 30-60min Technik
+
       - isolierte Techniken (Kreuzen, Hooks ...)
       - 5x5 Technik: 5 Versuche bei 5 schwierigen Zügen
-    - 60min 4x4
+
+    - 60min **4x4**
 
 - **Gymnastik nach der Abendsession Klettern**
    Fokus: 1-5 Wiederholungen je Set. Alles an den Ringen. Jede zweite Einheit.
@@ -179,6 +197,14 @@ Aufbau
   - Yoga
 
 
+Bridge Kraftausdauer zu Projekten
+------------------------------------
+Dauer: **2-3 Einheiten**. 1 Einheit == 1 Klettern.
+
+- Marathon: 42 Boulder (Ingi: ab 5a, Philipp: ab 6a)
+- Hangboarding (2 Mal): Campusboard Klettern (6x30 Sekunden)
+
+
 Projektphase
 -----------------
 Dauer: **8-12 Einheiten**. 1 Einheit == 1 Klettern oder 1 Contact Strength.
@@ -195,10 +221,11 @@ Fokus
 Aufbau
 ******
 
-- **Klettern** jeden dritten(!) Tag:
+- **Klettern** jeden _dritten(!)_ Tag:
   Wenn nötig, einen Tag Pause mehr.
 
   - ARC am Morgen (60 Minuten, 20-40x5a-5c) 
+
     - Test für Abend ob mehr Pause nötig
     - Bewegungsfluss
     - Atmung
@@ -208,12 +235,13 @@ Aufbau
     Aufbau einer Abendeinheit
 
     - 30-60min Warmup (15-20 Boulder aufsteigend bis 6b+)
-    - Projekte (6b+ - 7a+)
+    - **Projekte** (Ingi: 6a+ - 6b+; Philipp: 6c - 7a+)
 
 
 - **Contact Strength einmal pro Woche**:
 
   - ARC am Morgen (60 Minuten, 20-40x5a-5c) 
+
     - Test für Abend ob mehr Pause nötig
     - Bewegungsfluss
     - Atmung
@@ -224,8 +252,10 @@ Aufbau
 
     - 30-60min Warmup (Bouldern aufsteigend bis 6b+)
     - 30-60min Technik
+
       - isolierte Techniken (Kreuzen, Hooks ...)
       - 5x5 Technik: 5 Versuche bei 5 schwierigen Zügen
+
     - 60min Contact Strength
 
 
@@ -259,4 +289,5 @@ Fokus
 - Aktive Regeneration
 - Yoga
 - Entspannen und freuen auf den nächsten Zyklus :)
+
 
