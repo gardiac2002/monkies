@@ -6,12 +6,12 @@ Fragen
 ------
 
 - Schnellkraft auch in der Kraftausdauerphase?
-- 
+- Hangboarding am Morgen und am Abend klettern OK?
 
 
 Basisphase
 ----------
-Dauer: **12-16 Einheiten**
+Dauer: **12-16 Einheiten**. 1 Einheit == 1 Klettern.
 
 
 Fokus
@@ -64,7 +64,7 @@ Aufbau
 
 Maximalkraftphase
 -----------------
-Dauer: **8-12 Einheiten**
+Dauer: **8-12 Einheiten**. 1 Einheit == 1 Klettern.
 
 Fokus
 *****
@@ -95,7 +95,7 @@ Aufbau
       - 5x5 Technik: 5 Versuche bei 5 schwierigen Zügen (Fokus: Weite, explosive Züge)
     - Limit Bouldering ODER Schnellkraft (abwechselnd)
 
-- **Gymnastik nach der Abendsession Klettern** 
+- **Gymnastik nach der Abendsession Klettern**
    Fokus: 1-5 Wiederholungen je Set. Alles an den Ringen. Jede zweite Einheit.
 
   - Core: L-Sit, AbsWheel, FrontLever, BackLever,
@@ -116,7 +116,7 @@ Aufbau
 
 Maximalkraftphase
 -----------------
-Dauer: **12-16 Einheiten**
+Dauer: **12-16 Einheiten**. 1 Einheit == 1 Klettern.
 
 
 Fokus
@@ -148,14 +148,14 @@ Aufbau
       - 5x5 Technik: 5 Versuche bei 5 schwierigen Zügen
     - 60min 4x4
 
-- **Gymnastik nach der Abendsession Klettern** 
+- **Gymnastik nach der Abendsession Klettern**
    Fokus: 1-5 Wiederholungen je Set. Alles an den Ringen. Jede zweite Einheit.
 
   - Core: L-Sit, AbsWheel, FrontLever, BackLever,
   - Schulterstabilität
   - Antagonisten: Liegestütze, German Hang,
 
-- **Hangboard jeden vierten Tag nach ARC am Morgen** 
+- **Hangboard jeden vierten Tag nach ARC am Morgen**
 
   - 6 Sets: 6x7 Sekunden + 3 Sekunden Pause 
   - Leisten, Aufleger, Zange, Zweifinger Loch, Zange,
@@ -168,7 +168,7 @@ Aufbau
 
 Projektphase
 -----------------
-Dauer: **8-12 Einheiten**
+Dauer: **8-12 Einheiten**. 1 Einheit == 1 Klettern oder 1 Contact Strength.
 
 
 Fokus
@@ -216,7 +216,7 @@ Aufbau
     - 60min Contact Strength
 
 
-- **Gymnastik nach der Abendsession Klettern** 
+- **Gymnastik nach der Abendsession Klettern**
    Fokus: 1-5 Wiederholungen je Set. Alles an den Ringen. Jede zweite Einheit.
 
   - Core: L-Sit, AbsWheel, FrontLever, BackLever,
