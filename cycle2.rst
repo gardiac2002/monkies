@@ -5,9 +5,13 @@ Cycle 2
 Generelles
 ----------
 
+Dauer: **40-56 Einheiten** (14 - 19 Wochen)
+Daten: Mai - August/September
+
 - Ingi macht kein ARC am Morgen
 - Generell: Auf den Körper hören. Im Zweifel einen
   Restday mehr beziehungsweise lockerer als geplant.
+- Eine Phase dauert bis die Leistung abschwächt?
 
 
 Fragen
@@ -15,6 +19,8 @@ Fragen
 
 - Schnellkraft auch in der Kraftausdauerphase?
 - Hangboarding am Morgen und am Abend klettern OK?
+- Wie lange dauert eine Phase? Bis man schwächer wird oder
+  der Zuwachs nicht mehr feststellbar?
 
 
 Basisphase
