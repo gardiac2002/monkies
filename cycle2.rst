@@ -36,7 +36,7 @@ Aufbau
   - Klettern am Abend (120-180 Minuten, 20-40x5a-6b+, Ingi: bis 6a+)
 
     Aufbau einer Abendeinheit
-    - 30-60min Warmup (Bouldern aufsteigend bis 6b, Ingi: bis 6a)
+    - 30-60min Warmup (15-20 Boulder aufsteigend bis 6b, Ingi: bis 6a)
     - 30-60min Technik
         
       - isolierte Techniken (Kreuzen, Hooks ...)
@@ -89,7 +89,7 @@ Aufbau
 
     Aufbau einer Abendeinheit
 
-    - 30-60min Warmup (Bouldern aufsteigend bis 6b+)
+    - 30-60min Warmup (15-20 Boulder aufsteigend bis 6b+)
     - 30-60min Technik
       - isolierte Techniken (Kreuzen, Hooks ...)
       - 5x5 Technik: 5 Versuche bei 5 schwierigen Zügen (Fokus: Weite, explosive Züge)
@@ -142,7 +142,7 @@ Aufbau
 
     Aufbau einer Abendeinheit
 
-    - 30-60min Warmup (Bouldern aufsteigend bis 6b+)
+    - 30-60min Warmup (15-20 Boulder aufsteigend bis 6b+)
     - 30-60min Technik
       - isolierte Techniken (Kreuzen, Hooks ...)
       - 5x5 Technik: 5 Versuche bei 5 schwierigen Zügen
@@ -194,7 +194,7 @@ Aufbau
 
     Aufbau einer Abendeinheit
 
-    - 30-60min Warmup (Bouldern aufsteigend bis 6b+)
+    - 30-60min Warmup (15-20 Boulder aufsteigend bis 6b+)
     - Projekte (6b+ - 7a+)
 
 
