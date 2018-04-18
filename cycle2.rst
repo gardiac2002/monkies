@@ -270,7 +270,7 @@ Aufbau
     - **Projekte** (Ingi: 6a+ - 6b+; Philipp: 6c - 7a+)
 
 
-- **Contact Strength einmal pro Woche**:
+- **Schnellkraft einmal pro Woche statt einem Projekttag**:
 
   - Morgen: **ARC** (60 Minuten, 30-40 x 5a-5c)
     
