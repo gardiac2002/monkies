@@ -67,7 +67,7 @@ Aufbau
   - Schulterstabilität
   - Antagonisten: Liegestütze, German Hang,
 
-- **Hangboard jeden vierten Tag nach ARC am Morgen** 
+- **Hangboard jeden dritten/vierten Tag nach ARC am Morgen** 
 
   - 6 Sets: 3x10Sekunden Hängen + 50 Sekunden Pause.
   - Warmups, 16mm Leiste, 15° Aufleger, 35° Aufleger, Zweifinger Loch, Zange, 
@@ -121,7 +121,7 @@ Aufbau
   - Schulterstabilität
   - Antagonisten: Liegestütze, German Hang,
 
-- **Hangboard jeden vierten Tag nach ARC am Morgen** 
+- **Hangboard jeden dritten/vierten Tag nach ARC am Morgen** 
 
   - 6 Sets: 6x5 Sekunden + 10 Sekunden Pause 
   - One Arm Max Hang wo möglich (mit Resistanceband)
@@ -186,7 +186,7 @@ Aufbau
   - Schulterstabilität
   - Antagonisten: Liegestütze, German Hang,
 
-- **Hangboard jeden vierten Tag nach ARC am Morgen**
+- **Hangboard jeden dritten/vierten Tag nach ARC am Morgen**
 
   - 6 Sets: 6x7 Sekunden + 3 Sekunden Pause 
   - Leisten, Aufleger, Zange, Zweifinger Loch, Zange,
@@ -266,7 +266,7 @@ Aufbau
   - Schulterstabilität
   - Antagonisten: Liegestütze, German Hang,
 
-- **Hangboard jeden vierten Tag nach ARC am Morgen** 
+- **Hangboard jeden dritten/vierten Tag nach ARC am Morgen** 
 
   - 6 Sets: 6x5 Sekunden + 10 Sekunden Pause 
   - One Arm Max Hang wo möglich (mit Resistanceband)
