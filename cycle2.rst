@@ -19,6 +19,8 @@ Fragen
 
 - **[Hangboarding]** Ist es in Ordnung wenn ich am Morgen hangboarde und am Abend klettere?
 
+- **[Hangboarding]** Wie kann ich ohne Gewichte eine Hangbelastung von 90% RM erreichen? (-> Udo Neumann, Klettertraining)
+ 
 - **[Kraftausdauer]** Soll ich Schnellkraft auch in der Kraftausdauerphase trainieren?
 
 - **[Phasendauer]** Wie lange dauert eine Phase? Bis man schwächer wird oder
