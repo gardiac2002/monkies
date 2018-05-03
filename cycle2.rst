@@ -17,18 +17,6 @@ Dauer: **44-62 Einheiten** (16 - 21 Wochen), **Mai - August/September**
 Fragen
 ------
 
-- **[Hangboarding]** Ist es in Ordnung wenn ich am Morgen hangboarde und am Abend klettere?
-
-- **[Hangboarding]** Wie kann ich ohne Gewichte eine Hangbelastung von 90% RM erreichen? (-> Udo Neumann, Klettertraining)
- 
-- **[Kraftausdauer]** Soll ich Schnellkraft auch in der Kraftausdauerphase trainieren?
-
-- **[Phasendauer]** Wie lange dauert eine Phase? Bis man schwächer wird oder
-  der Zuwachs nicht mehr feststellbar?
-  
-- **[Basisphase]** Darf ich in der Basisphase auch ab und zu schwere Routen klettern?
-
-- **[Messung]** Wie und wann kann ich Leistungstests machen? (zB fürs Hangboarding)
 
 
 Basisphase
@@ -45,12 +33,13 @@ Fokus
 - Generell: Auf den Körper hören. Im Zweifel einen
   Restday mehr beziehungsweise lockerer als geplant.
 
+
 Aufbau
 ******
 
 - **Klettern jeden zweiten Tag**
 
-  - Morgen: **ARC** (60 Minuten, 30-40 x 5a-5c)
+  - Morgen: **ARC** (60 Minuten, 30-40 x 5a-5c ODER 2x20min Traverse)
     
     - nur Philipp
     - Test für Abend ob mehr Pause nötig
@@ -67,24 +56,39 @@ Aufbau
         
       - isolierte Techniken (Kreuzen, Hooks ...)
       - 5x5 Technik: 5 Versuche bei 5 schwierigen Zügen (Fokus: Technik NICHT Kraft)
+
     - viele unterschiedliche Routen
+    - 2/3 Projekte
     
+- **Muskelaufbau Boulder einmal pro Woche**
+
+  - 3x6 Themenboulder (3 Boulder - Leisten, Zangen, Aufleger, Untergriff, Schulter)
 
 
 - **Gymnastik nach der Abendsession Klettern jeden vierten Tag** 
 
-   Fokus: 12-20 Wiederholungen je Set. Ringe und Paralletes. Jede zweite Einheit.
+   Fokus: 8-10 Wiederholungen je Set. Ringe und Paralletes. Jede zweite Einheit.
 
   Ringe
   
-  - Core: L-Sit, AbsWheel
+  - Core: L-Sit, AbsWheel, Plank, Fold-em, Side-Rotation,
   - Schulterstabilität
-  - Antagonisten: Liegestütze, German Hang,
+  - Antagonisten: Liegestütze, German Hang, Kniebeugen
   
   Parallettes
   
   - L-Sit
   - Beine hochheben
+
+  Klimmzugtraining
+
+  - Klimmzug ABC
+  - Klimmzug Quadrat
+
+  Handstand
+ 
+  - Vorübungen
+  - Handstand
   
 
 - **Hangboard jeden dritten/vierten Tag nach ARC am Morgen** 
