@@ -7,16 +7,24 @@ Generelles
 
 Dauer: **44-62 Einheiten** (16 - 21 Wochen), **Mai - August/September**
 
-- Ingi macht kein ARC am Morgen
 - Generell: Auf den Körper hören. Im Zweifel einen
   Restday mehr beziehungsweise lockerer als geplant.
 - Ab und zu draußen klettern und einfach Freude haben! :)
 - Eine Phase dauert bis die Leistung abschwächt.
 
 
-Fragen
+Drills
 ------
 
+* Weich greifen und entlasten
+* Deadpoint weich greifen
+* Deadpoint weich greifen mit einer Hand
+* Weich greifen mit Münzen auf den Schuhen
+* Langer Arm
+
+* Wegschwingen
+* Rest Position
+* Schnell Klettern
 
 
 Basisphase
@@ -36,6 +44,29 @@ Fokus
 
 Aufbau
 ******
+
+- **Drills**
+
+- **Technique**
+
+- **Climbing**
+
+- **Hangboard**
+  
+  - Lopez: 6x (3x10+50) 3min Rest
+    (2 Warmup, 2 Crimps, 2 Slopers)
+
+
+- **Core**
+
+- **Blocking**
+
+  - PegBoard: One Arm Hang
+  
+- **Antagonists**
+
+
+
 
 - **Klettern jeden zweiten Tag**
 
@@ -102,6 +133,20 @@ Aufbau
   - Yoga
 
 
+Bridge Basis / Maximalkraft
+---------------------------
+(2-3 Einheiten)
+
+**45er** 
+
+ - 2 Boulder 8 Mal (16 Routen)
+  
+   - 2x alles steigen
+   - 2x nur Spax + HandFuss
+   - 2x nur Spax
+   - 2x nur Handfuss
+
+
 Maximalkraftphase
 -----------------
 Dauer: **8-12 Einheiten**. 1 Einheit == 1 Klettern.
@@ -116,6 +161,24 @@ Fokus
 
 Aufbau
 ******
+
+- **Schnellkraft**
+  
+  - Klimmzugstangen-Springen (6x (3x5))
+  - Hangeln (6 Routen)
+
+- **Blocking**
+
+  - Leisten-Blockierer mit 2kg + 2 Beine (6x (3x5))
+
+- **Core**
+
+  - L-Sit (Stange + Ringe)
+  - Knee-to-ellbow
+  
+- **Hangboard**
+
+  - Rolleybar: 6x6
 
 - **Klettern** jeden zweiten Tag:
   Wenn nötig, einen Tag Pause mehr.
@@ -188,6 +251,10 @@ Fokus
 
 Aufbau
 ******
+
+- **Hangboard**
+
+  - Rolleybar: 6x6
 
 - **Klettern** jeden zweiten Tag:
   Wenn nötig, einen Tag Pause mehr.
