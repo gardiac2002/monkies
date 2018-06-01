@@ -45,92 +45,38 @@ Fokus
 Aufbau
 ******
 
-- **Drills**
-
 - **Technique**
-
+  
+  - 5x5 Technik
+  - Drills
+  
 - **Climbing**
+
+  - ARC (1 per week | 1x30min oder 2x20min)
+  - Muskelaufbauboulder (1 per week, 6x 3 Themenboulder)
+  - viele, unterschiedliche Routen bewusst klettern
 
 - **Hangboard**
   
   - Lopez: 6x (3x10+50) 3min Rest
     (2 Warmup, 2 Crimps, 2 Slopers)
 
-
 - **Core**
-
+  
+  - L-Sit, AbsWheel, Plank, Fold-em, Side-Rotation,
+  
 - **Blocking**
 
   - PegBoard: One Arm Hang
+  - Klimmzug ABC
+  - Klimmzug Quadrat
   
 - **Antagonists**
 
-
-
-
-- **Klettern jeden zweiten Tag**
-
-  - Morgen: **ARC** (60 Minuten, 30-40 x 5a-5c ODER 2x20min Traverse)
-    
-    - nur Philipp
-    - Test für Abend ob mehr Pause nötig
-    - Bewegungsfluss
-    - Atmung
-
-  - Abend: **Sehr viel Klettern** 
-  
-    Fokus viele Routen mit Variation (Schnell klettern, wegschwingen, Rests, optimieren) 
-    Umfang: 25-40 x 5c-6b+, Ingi: 5a-6a+
-  
-    - Warmup (10-15 Boulder aufsteigend bis 6b, Ingi: bis 6a)
-    - Technik
-        
-      - isolierte Techniken (Kreuzen, Hooks ...)
-      - 5x5 Technik: 5 Versuche bei 5 schwierigen Zügen (Fokus: Technik NICHT Kraft)
-
-    - viele unterschiedliche Routen
-    - 2/3 Projekte
-    
-- **Muskelaufbau Boulder einmal pro Woche**
-
-  - 3x6 Themenboulder (3 Boulder - Leisten, Zangen, Aufleger, Untergriff, Schulter)
-
-
-- **Gymnastik nach der Abendsession Klettern jeden vierten Tag** 
-
-   Fokus: 8-10 Wiederholungen je Set. Ringe und Paralletes. Jede zweite Einheit.
-
-  Ringe
-  
-  - Core: L-Sit, AbsWheel, Plank, Fold-em, Side-Rotation,
-  - Schulterstabilität
-  - Antagonisten: Liegestütze, German Hang, Kniebeugen
-  
-  Parallettes
-  
-  - L-Sit
-  - Beine hochheben
-
-  Klimmzugtraining
-
-  - Klimmzug ABC
-  - Klimmzug Quadrat
-
-  Handstand
- 
-  - Vorübungen
+  - Liegestütze
+  - German Hang
+  - Dips
   - Handstand
-  
-
-- **Hangboard jeden dritten/vierten Tag nach ARC am Morgen** 
-
-  - 6 Sets: 3x10Sekunden Hängen + 50 Sekunden Pause.
-  - Warmups, 16mm Leiste, 15° Aufleger, 35° Aufleger, Zweifinger Loch, Zange, 
-  - 3 Minuten Pause zwischen jedem Set.
-
-- **Mobility**
-
-  - Yoga
 
 
 Bridge Basis / Maximalkraft
@@ -165,7 +111,7 @@ Aufbau
 - **Schnellkraft**
   
   - Klimmzugstangen-Springen (6x (3x5))
-  - Hangeln (6 Routen)
+  - 45er-Hangeln (6 Routen)
 
 - **Blocking**
 
@@ -175,6 +121,7 @@ Aufbau
 
   - L-Sit (Stange + Ringe)
   - Knee-to-ellbow
+  - AbsWheel, Plank, Fold-em, Side-Rotation,
   
 - **Hangboard**
 
