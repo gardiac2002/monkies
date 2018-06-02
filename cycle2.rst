@@ -13,6 +13,19 @@ Dauer: **44-62 Einheiten** (16 - 21 Wochen), **Mai - August/September**
 - Eine Phase dauert bis die Leistung abschwächt.
 
 
+Aktuelle Struktur
+-----------------
+
+- **Technique**
+- **ARC**
+- **Climbing**
+- **Schnellkraft**
+- **Hangboard**
+- **Core**
+- **Blocking**
+- **Antagonists**
+
+
 Drills
 ------
 
@@ -49,10 +62,13 @@ Aufbau
   
   - 5x5 Technik
   - Drills
-  
+
+- **ARC**
+
+  - 1 pro Woche | 1x30min oder 2x20min
+
 - **Climbing**
 
-  - ARC (1 per week | 1x30min oder 2x20min)
   - Muskelaufbauboulder (1 per week, 6x 3 Themenboulder)
   - viele, unterschiedliche Routen bewusst klettern
 
@@ -95,7 +111,7 @@ Bridge Basis / Maximalkraft
 
 Maximalkraftphase
 -----------------
-Dauer: **8-12 Einheiten**. 1 Einheit == 1 Klettern.
+Dauer: **8-12 Einheiten**
 
 Fokus
 *****
@@ -108,70 +124,56 @@ Fokus
 Aufbau
 ******
 
+- **Technique**
+  
+  - 5x5 Technik
+  - Drills
+
+- **ARC**
+
+  - 1 pro Woche | 1x30min oder 2x20min
+
+
+- **Climbing**
+
+  - Warmup | Boulder-Pyramide
+  - 45er   | Limit Bouldern 
+
+
 - **Schnellkraft**
   
-  - Klimmzugstangen-Springen (6x (3x5))
-  - 45er-Hangeln (6 Routen)
+  - Klimmzug-Stange | Springen (6x (3x5))
+  - 45er            | Hangeln (6 Routen)
 
-- **Blocking**
+- **Hangboard**
+  
+  - Hangboard | One Arm Hang: 6x (6x5+10) + 3min Rest
+  - Rolleybar Hang | 6x6
 
-  - Leisten-Blockierer mit 2kg + 2 Beine (6x (3x5))
 
 - **Core**
-
+  
   - L-Sit (Stange + Ringe)
   - Knee-to-ellbow
-  - AbsWheel, Plank, Fold-em, Side-Rotation,
+  - AbsWheel, Plank, Fold-em, Side-Rotation
+  - Easy Front-Lever
+  - Easy Back-Lever
   
-- **Hangboard**
+- **Blocking**
 
-  - Rolleybar: 6x6
-
-- **Klettern** jeden zweiten Tag:
-  Wenn nötig, einen Tag Pause mehr.
-
-  - Morgen: **ARC** (60 Minuten, 30-40 x 5a-5c)
-    
-    - nur Philipp
-    - Test für Abend ob mehr Pause nötig
-    - Bewegungsfluss
-    - Atmung
-
-  - Abend: **Limit Bouldern** oder **Schnellkraft**
-
-    - Warmup (15-20 Boulder aufsteigend bis 6b+)
-    - Technik
-
-      - isolierte Techniken (Kreuzen, Hooks ...)
-      - 5x5 Technik: 5 Versuche bei 5 schwierigen Zügen (Fokus: Weite, explosive Züge)
-
-    - **Limit Bouldering** ODER **Schnellkraft** (abwechselnd)
-
-- **Gymnastik nach der Abendsession jeden vierten Tag**
-   Fokus: 1-5 Wiederholungen je Set. Alles an den Ringen. Jede zweite Einheit.
-
-  Ringe
+  - CampusBoard | Leisten-Blockierer mit 2kg + 2 Beine (6x (3x5))
+  - PegBoard    | One Arm Hang
+  - Stange      | Klimmzug ABC
+  - Stange      | Klimmzug Quadrat
   
-  - Core: L-Sit, AbsWheel, FrontLever, BackLever,
-  - Schulterstabilität
-  - Antagonisten: Liegestütze, German Hang,
+- **Antagonists**
 
-  Parallettes
-  
-  - L-Sit
-  - Beine hochheben
-  - Plank
+  - Liegestütze
+  - German Hang
+  - Dips
+  - Handstand
+  - Squats
 
-- **Hangboard jeden dritten/vierten Tag nach ARC am Morgen** 
-
-  - 6 Sets: 6x5 Sekunden + 10 Sekunden Pause 
-  - One Arm Max Hang wo möglich (mit Resistanceband)
-  - Leisten, Aufleger, Zange, Zweifinger Loch, Zange,
-  - 3 Minuten Pause zwischen den Sets.
-
-- **Mobility**
-
-  - Yoga (Ingi täglich, Philipp RestDays)
 
 
 Bridge Maximalkraft zu Kraftausdauer
@@ -199,55 +201,44 @@ Fokus
 Aufbau
 ******
 
+
+- **Technique**
+
+  - 5x5 Technik
+  - Drills
+
+- **ARC**
+
+  - 1 pro Woche | 1x30min oder 2x20min
+
+- **Climbing**
+
+  - Warmup | Boulder-Pyramide
+  - 4x4
+
 - **Hangboard**
 
-  - Rolleybar: 6x6
+  - Rolleybar | 6x6
+  - Hangboard | 7-3: 6x (6x 7-3) + 3min Pause
 
-- **Klettern** jeden zweiten Tag:
-  Wenn nötig, einen Tag Pause mehr.
+- **Core**
 
-  - Morgen: **ARC** (60 Minuten, 30-40 x 5a-5c)
-    
-    - nur Philipp
-    - Test für Abend ob mehr Pause nötig
-    - Bewegungsfluss
-    - Atmung
-
-  - Abend: **4x4**
-
-    - Warmup (15-20 Boulder aufsteigend bis 6b+)
-    - Technik
-
-      - isolierte Techniken (Kreuzen, Hooks ...)
-      - 5x5 Technik: 5 Versuche bei 5 schwierigen Zügen
-
-    - **4x4**
-
-- **Gymnastik nach der Abendsession Klettern jeden vierten Tag**
-   Fokus: 1-5 Wiederholungen je Set. Alles an den Ringen. Jede zweite Einheit.
-
-  Ringe
-
-  - Core: L-Sit, AbsWheel, FrontLever, BackLever,
-  - Schulterstabilität
-  - Antagonisten: Liegestütze, German Hang,
-
-  Parallettes
-  
   - L-Sit
-  - Beine hochheben
-  - Plank
+  - AbsWheel
+  - FrontLever (progressions)
+  - BackLever (progressions)
 
+- **Blocking**
 
-- **Hangboard jeden dritten/vierten Tag nach ARC am Morgen**
+  - ???
 
-  - 6 Sets: 6x7 Sekunden + 3 Sekunden Pause 
-  - Leisten, Aufleger, Zange, Zweifinger Loch, Zange,
-  - 3 Minuten Pause zwischen den Sets.
+- **Antagonists**
 
-- **Mobility**
-
-  - Yoga
+  - Liegestütze
+  - German Hang
+  - Dips
+  - Handstand
+  - Squats
 
 
 Bridge Kraftausdauer zu Projekten
@@ -274,70 +265,47 @@ Fokus
 Aufbau
 ******
 
-- **Klettern** jeden _dritten(!)_ Tag:
-  Wenn nötig, einen Tag Pause mehr.
+- **Technique**
 
-  - Morgen: **ARC** (60 Minuten, 30-40 x 5a-5c)
-    
-    - nur Philipp
-    - Test für Abend ob mehr Pause nötig
-    - Bewegungsfluss
-    - Atmung
-    
-  - Abend: **Projekte**
+  - Drills
 
-    - Warmup (15-20 Boulder aufsteigend bis 6b+)
-    - **Projekte** (Ingi: 6a+ - 6b+; Philipp: 6c - 7a+)
+- **ARC**
 
+  - 1 pro Woche | 1x30min oder 2x20min
 
-- **Schnellkraft einmal pro Woche statt einem Projekttag**:
+- **Climbing**
 
-  - Morgen: **ARC** (60 Minuten, 30-40 x 5a-5c)
-    
-    - nur Philipp
-    - Test für Abend ob mehr Pause nötig
-    - Bewegungsfluss
-    - Atmung
-
-  - Abend: **Contact Strength**
-    Nur für Philipp, Ingi macht einen normalen Klettertag.
-    Findet statt einem Projekttag statt.
-    
-    - Warmup (Bouldern aufsteigend bis 6b+)
-    - Technik
-
-      - isolierte Techniken (Kreuzen, Hooks ...)
-      - 5x5 Technik: 5 Versuche bei 5 schwierigen Zügen
-
-    - **Contact Strength**
-
-
-- **Gymnastik nach der Abendsession Klettern jeden vierten Tag**
-   Fokus: 1-5 Wiederholungen je Set. Alles an den Ringen. Jede zweite Einheit.
-
-  Ringe
-
-  - Core: L-Sit, AbsWheel, FrontLever, BackLever,
-  - Schulterstabilität
-  - Antagonisten: Liegestütze, German Hang,
-
-  Parallettes
+  - Warmup | Boulder-Pyramide
+  - Projekte
   
+- **Schnellkraft**
+
+  - Klimmzug-Stange | Springen (6x (3x5))
+  - 45er | Hangeln (6 Routen)
+  
+- **Hangboard**
+
+  - Rolleybar | 6x6
+  - Hangboard | 7-3: 6x (6x 7-3) + 3min Pause
+
+- **Core**
+
   - L-Sit
-  - Beine hochheben
-  - Plank
+  - AbsWheel
+  - FrontLever (progressions)
+  - BackLever (progressions)
 
+- **Blocking**
 
-- **Hangboard jeden dritten/vierten Tag nach ARC am Morgen** 
+  - ???
 
-  - 6 Sets: 6x5 Sekunden + 10 Sekunden Pause 
-  - One Arm Max Hang wo möglich (mit Resistanceband)
-  - Leisten, Aufleger, Zange, Zweifinger Loch, Zange,
-  - 3 Minuten Pause zwischen den Sets.
+- **Antagonists**
 
-- **Mobility**
-
-  - Yoga
+  - Liegestütze
+  - German Hang
+  - Dips
+  - Handstand
+  - Squats
 
 
 Rest Weeks
