@@ -99,7 +99,7 @@ Bridge Basis / Maximalkraft
 ---------------------------
 (2-3 Einheiten)
 
-**45er** 
+- **45er** 
 
  - 2 Boulder 8 Mal (16 Routen)
   
@@ -165,6 +165,8 @@ Aufbau
   - PegBoard    | One Arm Hang
   - Stange      | Klimmzug ABC
   - Stange      | Klimmzug Quadrat
+  - Stange      | Typewriter PullUp
+  - Stange      | Archer PullUp
   
 - **Antagonists**
 
