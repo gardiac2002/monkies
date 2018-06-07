@@ -39,6 +39,21 @@ Drills
 * Rest Position
 * Schnell Klettern
 
+**Dynos**
+
+* Hüftschwung
+* Kopfschwung
+* Beinstrecker
+* Hüftimpuls
+* Diskus
+* Rumpfdrehung
+
+**Steigen**
+
+* Gerade steigen
+* Tritte ziehen
+* Tief steigen
+
 
 Basisphase
 ----------
