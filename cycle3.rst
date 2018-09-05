@@ -10,6 +10,36 @@ The focus of this phase is:
 * overhanging and roof climbing
 * far, dynamic moves
 
+Technique
+---------
+
+
+* Footwork
+* Speed
+* Twistlock (+ locking the lower arm in place)
+* Outside Edge
+* Flagging (forward + backward | instead of swapping feet)
+* Drop Knee
+* Side Heel Hook (!)
+* Extremely High Heel Hooks
+* Heel Hook
+* Toe Hook
+* Heel Toe
+* Bicycle
+* Controlled Cutting Loose
+* Deadpointing
+
+Additional technical advice
+---------------------------
+
+* eyes on the foothold
+* pull on your arms when you cut your feet
+* flagging for optimal body positioning
+
+* when we fall into a certain direction we often did not have 
+  our body in the direct position
+  
+  
 Base Phase
 ----------
 
